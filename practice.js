@@ -9,25 +9,25 @@ const myName = "David Koser";
 //Create a variable called myAge that is a number data type
 
 //Code here
-var myAge = 28;
+let myAge = 28;
 //////////////////PROBLEM 3////////////////////
 
 //Create a variable called lovesCode that is a boolean data type
 
 //Code here
-var lovesCode = true;
+let lovesCode = true;
 //////////////////PROBLEM 4////////////////////
 
 //Create a variable called greatestFear that is undefined because we fear nothing
 
 //Code here
-var greatestFear; 
+let greatestFear; 
 //////////////////PROBLEM 5////////////////////
 
 //Create a variable called devMountainGoal that is null because we are just starting out
 
 //Code here
-var devMountainGoal = null;
+let devMountainGoal = null;
 //////////////////PROBLEM 6////////////////////
 
 //Create a function declaration called greeting that
@@ -54,7 +54,7 @@ var newGreeting = function(name) {
 //"apples", "milk", "eggs", "bread"
 
 //Code Here
-var groceries = ["apples", "milk", "eggs", "bread"];
+let groceries = ["apples", "milk", "eggs", "bread"];
 //////////////////PROBLEM 9////////////////////
 
 //Create an object saved to the variable dog.
@@ -63,7 +63,7 @@ var groceries = ["apples", "milk", "eggs", "bread"];
 //and goodBoy (a boolean).
 
 //Code Here
-var dog = {
+let dog = {
   name:"Fido",
   color:"Brown",
   age:5,
@@ -73,7 +73,7 @@ var dog = {
 //variable called devMountainClassPet.
 
 //Code Here
-var devMountainClassPet = dog.name
+let devMountainClassPet = dog.name
 //////////////////PROBLEM 10////////////////////
 
 //Write a function called nameCheck that takes in a name parameter.
@@ -109,7 +109,7 @@ function add(num1,num2) {
 //storing the result in the variable mathSum.
 
 //Code Here
-var mathSum = add(3,4);
+let mathSum = add(3,4);
 //////////////////PROBLEM 12////////////////////
 
 //Write a function called faveColorFinder that takes in one parameter called color
